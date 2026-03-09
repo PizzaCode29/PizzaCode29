@@ -43,6 +43,3 @@ Docker, CI/CD Pipelines, Cloud Deployments
 
 ## Engineering Philosophy
 I believe software should do more than simply function. The best systems are scalable, intelligent, and designed for long term maintainability. By combining strong engineering fundamentals with modern AI technologies, I build applications that deliver real business value.
-
-## Connect With Me
-GitHub: https://github.com/PizzaCode29
